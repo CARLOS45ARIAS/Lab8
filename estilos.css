@@ -13,3 +13,8 @@ p{
 img{
     border: 20px solid blueviolet;
 }
+body{
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1667986149733800047/62E4D473CB4351A61C474C96FD0247392AC0706C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    color: #ffffff;
+
+}
